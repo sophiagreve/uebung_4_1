@@ -13,6 +13,24 @@
 
 * Testen Sie die Methode, indem Sie sie mindestens dreimal verwenden.
 
+### Bonusaufgabe für Fortgeschrittene
+
+Sorgen Sie dafür, dass der Bruchstrich abhängig vom Zähler und Nenner immer die exakt passende Länge hat! Beispiele:
+
+```
+1
+- = 0.5
+2
+
+10
+--- = 10.0
+100
+
+2000
+---- = 1000.0
+2
+```
+
 ## Goldener Schnitt
 
 * Schreiben Sie ein Programm, welches näherungsweise den [Goldenen Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt) bestimmt. Dieser kann mit folgendem Verfahren bestimmt werden:
